@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2? família=Permanente+Marcador&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+section{
+    width: 100vw;
+    height: 100vh;
+    background-image: url('../img/img_bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
